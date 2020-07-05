@@ -1,0 +1,23 @@
+MAIN PAGE:
+
+-Indentation
+-Html lang="Default"
+-Meta description sans content
+-Title vide (.)
+-Analytics vide
+-Que des div
+-Div avec id + class
+-Style dans html
+-Height dans lien
+-Commentaires pas pertinents
+-Lien page2 sans intérêt
+-Width dans image
+-H1 avec un point final
+-Image sans alt
+-H2 après H3
+-<br> mauvaise utilisation
+-Liens partenaires à revoir
+
+PAGE 2:
+
+-Plusieurs span
