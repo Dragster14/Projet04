@@ -12,6 +12,7 @@ MAIN PAGE:
 -Commentaires pas pertinents
 -Lien page2 sans intérêt
 -Width dans image
+-Taille des images par rapport à leur conteneur
 -H1 avec un point final
 -Image sans alt
 -H2 après H3
@@ -21,3 +22,16 @@ MAIN PAGE:
 PAGE 2:
 
 -Plusieurs span
+
+<<----------------------->>
+
+<code><meta name="robots" content="index, follow"></code>
+
+<link rel="canonical" href="https://monsite.com/page" />
+
+-Site créé via CMS ? (attention plugin)
+-Crawlabilité
+-Mobile first
+-Vitesse de chargement (taille des images/compression des fichiers .min.css/Gzip compression/balise async ou defer dans head)
+-Mise en cache navigateur (Cache-Control/Expires)
+-CDN pour SEO ?
