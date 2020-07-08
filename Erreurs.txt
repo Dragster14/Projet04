@@ -12,7 +12,7 @@ MAIN PAGE:
 -Style dans html
 -Height dans lien
 -Lien page2 sans intérêt OK
--Width dans image
+-Width dans image OK
 -Taille des images par rapport à leur conteneur OK
 -H1 avec un point final OK
 -Image sans alt
