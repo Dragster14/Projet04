@@ -13,12 +13,12 @@ MAIN PAGE:
 -Height dans lien
 -Lien page2 sans intérêt OK
 -Width dans image
--Taille des images par rapport à leur conteneur
--H1 avec un point final
+-Taille des images par rapport à leur conteneur OK
+-H1 avec un point final OK
 -Image sans alt
 -H2 après H3 ?
 -<br> mauvaise utilisation OK
--Liens partenaires à revoir
+-Liens partenaires à revoir OK
 -Liens annuaires à revoir OK
 -Liens réseaux sociaux OK
 
@@ -30,7 +30,7 @@ PAGE 2:
 
 <<----------------------->>
 
-<code><meta name="robots" content="index, follow"></code>
+<meta name="robots" content="index, follow">
 
 <link rel="canonical" href="https://monsite.com/page" />
 
