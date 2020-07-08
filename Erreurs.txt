@@ -1,27 +1,32 @@
 MAIN PAGE:
 
--Indentation
--Html lang="Default"
--Meta description sans content
--Title vide (.)
--Analytics vide
--Que des div
+-Indentation OK
+-Html lang="Default" OK
+-Meta description sans content OK
+-Title vide (.) OK
+-Toggle navigation OK
+-Blackhat OK
+-Commentaire Analytics vide OK
+-Que des div OK
 -Div avec id + class
 -Style dans html
 -Height dans lien
--Commentaires pas pertinents
--Lien page2 sans intérêt
+-Lien page2 sans intérêt OK
 -Width dans image
 -Taille des images par rapport à leur conteneur
 -H1 avec un point final
 -Image sans alt
--H2 après H3
--<br> mauvaise utilisation
+-H2 après H3 ?
+-<br> mauvaise utilisation OK
 -Liens partenaires à revoir
+-Liens annuaires à revoir OK
+-Liens réseaux sociaux OK
 
 PAGE 2:
 
+-Link non conformes en .min OK
 -Plusieurs span
+-Adresse à revoir
 
 <<----------------------->>
 
@@ -35,3 +40,13 @@ PAGE 2:
 -Vitesse de chargement (taille des images/compression des fichiers .min.css/Gzip compression/balise async ou defer dans head)
 -Mise en cache navigateur (Cache-Control/Expires)
 -CDN pour SEO ?
+
+<<----------------------->>
+
+Site multilingue:
+
+-Créer plusieurs noms de domaine distincts
+-Créer des sous-domaines
+-Séparation par répertoire (meilleur SEO possible)
+
+<link rel="alternate" hreflang="en" href="https://votre-site.fr/en/" />
