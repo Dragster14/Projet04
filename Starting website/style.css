@@ -56,6 +56,36 @@ a:hover {
     padding: 20px 50px;
 }
 
+.col-sm-12 {
+    margin-bottom: 20px;
+}
+
+.para-1, .citation-1, .para-2 {
+    font-size: 1.6em;
+}
+
+.citation-1, .cite-1 {
+    color: #565656;
+}
+
+.citation-1 {
+    border-left: none;
+    font-style: italic;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    line-height: normal;
+}
+
+.cite-1 {
+    font-style: normal;
+}
+
+.lien-contact {
+    font-size: 11px;
+    display: block;
+    margin-top: 20px;
+}
+
 .bg-center,
 .bg-l-edge,
 .bg-r-edge,
@@ -651,7 +681,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #575757;
 }
 
 .container {
@@ -699,9 +729,28 @@ p {
     font-weight: 700;
 }
 
+.container__portfolio {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.container__portfolio--1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 .social {
     max-width: 400px;
-    margin: auto auto auto auto;
+    margin: 30px auto auto auto;
+}
+
+.portfolio {
+    color: #FFF;
+    font-size: 16px;
+    margin-bottom: 0px;
+    margin-right: 80px;
 }
 
 h2 {

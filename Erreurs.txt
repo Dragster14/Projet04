@@ -15,12 +15,12 @@ MAIN PAGE:
 -Width dans image OK
 -Taille des images par rapport à leur conteneur OK
 -H1 avec un point final OK
--Image sans alt
--H2 après H3 ?
 -<br> mauvaise utilisation OK
 -Liens partenaires à revoir OK
--Liens annuaires à revoir OK
+-Liens annuaires à revoir OK 
 -Liens réseaux sociaux OK
+-Tester les link
+-Analyse temps de chargement
 
 PAGE 2:
 
@@ -32,7 +32,7 @@ PAGE 2:
 
 <meta name="robots" content="index, follow">
 
-<link rel="canonical" href="https://monsite.com/page" />
+<link rel="canonical" href="https://monsite.com/page" /> garder pour l'intérêt
 
 -Site créé via CMS ? (attention plugin)
 -Crawlabilité
