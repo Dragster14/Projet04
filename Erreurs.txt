@@ -9,8 +9,8 @@ MAIN PAGE:
 -Commentaire Analytics vide OK
 -Que des div OK
 -Div avec id + class
--Style dans html
--Height dans lien
+-Style dans html OK
+-Height dans image OK
 -Lien page2 sans intérêt OK
 -Width dans image OK
 -Taille des images par rapport à leur conteneur OK
@@ -19,13 +19,12 @@ MAIN PAGE:
 -Liens partenaires à revoir OK
 -Liens annuaires à revoir OK 
 -Liens réseaux sociaux OK
--Tester les link
+-Tester les link OK
 -Analyse temps de chargement
 
 PAGE 2:
 
 -Link non conformes en .min OK
--Plusieurs span
 -Adresse à revoir
 
 <<----------------------->>
