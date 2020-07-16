@@ -20,7 +20,8 @@ MAIN PAGE:
 -Liens annuaires à revoir OK 
 -Liens réseaux sociaux OK
 -Tester les link OK
--Analyse temps de chargement
+-Analyse temps de chargement OK
+-Mise en place cache
 
 PAGE 2:
 
