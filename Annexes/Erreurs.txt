@@ -23,7 +23,7 @@ MAIN PAGE:
 -Analyse temps de chargement OK
 -Image - texte OK -- 
 -Mise en place cache OK
--Vérifier les scripts
+-Vérifier les scripts OK
 
 PAGE 2:
 
