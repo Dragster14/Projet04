@@ -22,7 +22,8 @@ MAIN PAGE:
 -Tester les link OK
 -Analyse temps de chargement OK
 -Image - texte OK -- 
--Mise en place cache
+-Mise en place cache OK
+-Vérifier les scripts
 
 PAGE 2:
 
@@ -51,3 +52,5 @@ Site multilingue:
 -Séparation par répertoire (meilleur SEO possible)
 
 <link rel="alternate" hreflang="en" href="https://votre-site.fr/en/" />
+
+-Montrer compatibilité navigateurs
