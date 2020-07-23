@@ -59,6 +59,10 @@ a:hover {
     margin-bottom: 20px;
 }
 
+.txt_border {
+    margin-bottom: 54px;
+}
+
 .para-1, .citation-1, .para-2 {
     font-size: 1.6em;
 }
