@@ -59,6 +59,10 @@ a:hover {
     margin-bottom: 20px;
 }
 
+strong {
+    font-weight: normal;
+}
+
 .link-size {
     width: 270px;
     max-width: 100%;
